@@ -1,1 +1,1 @@
-Ноутбук разрядился на паре, не успел закоммитить. Сделаю, как только доберусь до розетки
+The GET requests of ConcatTwoStrings and ConcatAStringANUmberOfTimes are recieved at http://localhost:8080/concat_two and http://localhost:8080/concat_num_of_str respectively. The arguments are recieved as request parameters in the query string (i. e. http://localhost:8080/concat_num_of_str?string=g&num=9 or http://localhost:8080/concat_two?string1=User&string2=Me
